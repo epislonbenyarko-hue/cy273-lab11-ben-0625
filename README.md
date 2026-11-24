@@ -7,6 +7,7 @@
 | **Course** | CY 273 — Mobile Application Development (UMaT) |
 | **Lab** | 11 — Campus News Feed from a REST API |
 | **GitHub repo** | https://github.com/epislonbenyarko-hue/cy273-lab11-ben-0625 |
+| **Pull request** | https://github.com/epislonbenyarko-hue/cy273-lab11-ben-0625/pull/1 |
 | **Target** | Chrome / web (also Android if the Android folder is added) |
 
 ## What this app does
